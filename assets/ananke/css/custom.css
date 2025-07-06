@@ -1,0 +1,15 @@
+@font-face{
+  font-family: Mourich;
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url('/fonts/Mourich-Regular.ttf') format('truetype');
+}
+
+h1, h2, h3, h4, h5, h6, .athelas {
+  font-family: Mourich;
+}
+
+header aside {
+  display: none;
+}

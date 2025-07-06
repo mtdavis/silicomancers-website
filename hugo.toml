@@ -1,0 +1,13 @@
+baseURL = 'https://silicomancers.com/'
+languageCode = 'en-us'
+title = "The Fire and Lightning Cycle"
+theme = 'ananke'
+copyright = 'Hamil C. Davies'
+[params]
+custom_css = ["custom.css"]
+[params.ananke.social.follow]
+networks = [
+  "bluesky"
+]
+[params.ananke.social.bluesky]
+username = "silicomancer.bsky.social"
