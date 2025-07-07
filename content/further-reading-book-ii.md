@@ -1,5 +1,7 @@
 +++
-title = 'Further Reading – Book II'
+title = "Further Reading"
+description = "Book II"
+featured_image = "/images/ananya-mittal-s3w-i2E4CdM-unsplash.jpg"
 draft = false
 [_build]
   list = 'never'
@@ -8,7 +10,7 @@ These are some of the topics that inspired me throughout the writing of *The Sch
 
 **Be warned**: some details about these topics could be considered spoilers!
 
-## Animals
+# Animals
 
 [Argentavis](https://en.wikipedia.org/wiki/Argentavis)
 
@@ -18,7 +20,7 @@ These are some of the topics that inspired me throughout the writing of *The Sch
 
 [Trilobites](https://en.wikipedia.org/wiki/Trilobite)
 
-## Minerals
+# Minerals
 
 [Langgan](https://en.wikipedia.org/wiki/Langgan)
 
@@ -26,7 +28,7 @@ These are some of the topics that inspired me throughout the writing of *The Sch
 
 [Riebeckite](https://en.wikipedia.org/wiki/Riebeckite)
 
-## Science & Technology
+# Science & Technology
 
 [Miller–Urey Experiment](https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment)
 
@@ -40,9 +42,12 @@ These are some of the topics that inspired me throughout the writing of *The Sch
 
 [Gunpowder](https://en.wikipedia.org/wiki/Timeline_of_the_gunpowder_age)
 
-## Other
+# Other
 
 [Sortition](https://en.wikipedia.org/wiki/Sortition)
 
 [Royal Society](https://en.wikipedia.org/wiki/Royal_Society)
 
+---
+
+# [« Home](/)

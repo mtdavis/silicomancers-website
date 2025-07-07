@@ -5,6 +5,7 @@ theme = 'ananke'
 copyright = 'Hamil C. Davies'
 [params]
 custom_css = ["custom.css"]
+favicon = "images/favicon.png"
 [params.ananke.social.follow]
 networks = [
   "bluesky"

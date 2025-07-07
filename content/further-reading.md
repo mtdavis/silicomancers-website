@@ -1,5 +1,7 @@
 +++
-title = 'Further Reading – Book I'
+title = "Further Reading"
+description = "Book I"
+featured_image = "/images/ananya-mittal-s3w-i2E4CdM-unsplash.jpg"
 draft = false
 [_build]
   list = 'never'
@@ -8,7 +10,7 @@ These are some of the topics that inspired me throughout the writing of *The Sil
 
 **Be warned**: some details about these topics could be considered spoilers!
 
-## Mussels and Pearls
+# Mussels & Pearls
 
 [Freshwater Pearl Mussel](https://en.wikipedia.org/wiki/Freshwater_pearl_mussel)
 
@@ -17,7 +19,7 @@ These are some of the topics that inspired me throughout the writing of *The Sil
 
 [Development of Freshwater Mussels](https://www.molluscs.at/bivalvia/index.html?/bivalvia/glochidia.html)
 
-## Minerals
+# Minerals
 
 [Fulgurite](https://en.wikipedia.org/wiki/Fulgurite)
 
@@ -27,7 +29,7 @@ These are some of the topics that inspired me throughout the writing of *The Sil
 
 [Sunstone](https://en.wikipedia.org/wiki/Sunstone_(medieval))
 
-## Other Topics
+# Other Topics
 
 [Diatom](https://en.wikipedia.org/wiki/Diatom)
 
@@ -56,3 +58,7 @@ These are some of the topics that inspired me throughout the writing of *The Sil
 [Silphium](https://en.wikipedia.org/wiki/Silphium)
 
 [Sling](https://en.wikipedia.org/wiki/Sling_(weapon))
+
+---
+
+# [« Home](/)

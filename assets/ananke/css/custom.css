@@ -6,10 +6,33 @@
   src: url('/fonts/Mourich-Regular.ttf') format('truetype');
 }
 
-h1, h2, h3, h4, h5, h6, .athelas {
+h1, h2, h3, h4, h5, h6, .athelas, .lh-title, header .lh-copy, nav {
   font-family: Mourich;
+  text-transform: uppercase;
 }
 
-header aside {
+header aside, article header h1 {
   display: none;
+}
+
+.tc-l {
+  text-align: center
+}
+
+a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 60em) {
+  header .ananke-socials {
+    display: none;
+  }
+
+  h1 a {
+    font-size: 2.25rem;
+  }
+
+  h1.f1 {
+    font-size: 2.5rem;
+  }
 }

@@ -1,5 +1,6 @@
 ---
 title: "The Fire and Lightning Cycle"
+description: "By Hamil C. Davies"
 featured_image: '/images/hero-1.jpg'
 ---
 Margaret is an apprentice glassmaker in her family’s shop, unsure about the future expected of her.
@@ -39,7 +40,6 @@ Can Margaret and Berzelius solve the pearls’ mysteries in time to muster a cou
 ---
 
 Are you interested in more information about some of the real-life science and settings that inspired the books?
-Check out:
 
 [Further Reading for Book I](/further-reading)
 
