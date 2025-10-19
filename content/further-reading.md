@@ -8,7 +8,7 @@ draft = false
 +++
 These are some of the topics that inspired me throughout the writing of *The Silicomancer’s Apprentice*.
 
-**Be warned**: some details about these topics could be considered spoilers!
+**Spoiler warning**: awareness of these topics will ruin some surprises!
 
 # Mussels & Pearls
 
@@ -29,36 +29,44 @@ These are some of the topics that inspired me throughout the writing of *The Sil
 
 [Sunstone](https://en.wikipedia.org/wiki/Sunstone_(medieval))
 
-# Other Topics
+# Science & Technology
 
 [Diatom](https://en.wikipedia.org/wiki/Diatom)
 
-[Hanging Temple](https://en.wikipedia.org/wiki/Hanging_Temple)
-
 [Hourglass](http://www.madehow.com/Volume-5/Hourglass.html)
+
+[Jöns Jacob Berzelius](https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius)
+
+[Marble Scissors](https://www.wetcanvas.com/forums/topic/marble-scissors-quot-marbelschere-quot/)
+
+[Occultation](https://en.wikipedia.org/wiki/Occultation)
+
+[Prisoner’s Cinema](https://en.wikipedia.org/wiki/Prisoner's_cinema)
+
+[Sling](https://en.wikipedia.org/wiki/Sling_(weapon))
+
+# Other Topics
+
+[Hanging Temple](https://en.wikipedia.org/wiki/Hanging_Temple)
 
 [Japanese Dry Garden](https://en.wikipedia.org/wiki/Japanese_dry_garden)
 
 [Mandala](https://en.wikipedia.org/wiki/Mandala)
 
-[Marble Scissors](https://www.wetcanvas.com/forums/topic/marble-scissors-quot-marbelschere-quot/)
-
 [Mu](https://en.wikipedia.org/wiki/Mu_(negative))
-
-[Occultation](https://en.wikipedia.org/wiki/Occultation)
 
 [Oracle Bone Script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 
 [Ponte Vecchio](https://en.wikipedia.org/wiki/Ponte_Vecchio)
 
-[Prisoner’s Cinema](https://en.wikipedia.org/wiki/Prisoner's_cinema)
-
 [Shen](https://en.wikipedia.org/wiki/Shen_(clam-monster))
 
 [Silphium](https://en.wikipedia.org/wiki/Silphium)
 
-[Sling](https://en.wikipedia.org/wiki/Sling_(weapon))
-
 ---
+
+[Further Reading for Book II](/further-reading-book-ii)
+
+[Further Reading for Book III](/further-reading-book-iii)
 
 # [« Home](/)

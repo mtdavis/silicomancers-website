@@ -8,7 +8,7 @@ draft = false
 +++
 These are some of the topics that inspired me throughout the writing of *The Scholars of Carbomancy*.
 
-**Be warned**: some details about these topics could be considered spoilers!
+**Spoiler warning**: awareness of these topics will ruin some surprises!
 
 # Animals
 
@@ -32,22 +32,26 @@ These are some of the topics that inspired me throughout the writing of *The Sch
 
 [Miller–Urey Experiment](https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment)
 
-[Large language model](https://en.wikipedia.org/wiki/Large_language_model)
+[Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
 
-[Impact crater lake](https://en.wikipedia.org/wiki/Impact_crater_lake)
+[Impact Crater Lake](https://en.wikipedia.org/wiki/Impact_crater_lake)
 
 [Pantelegraph](https://en.wikipedia.org/wiki/Pantelegraph)
 
-[Dandy horse](https://en.wikipedia.org/wiki/Dandy_horse)
+[Dandy Horse](https://en.wikipedia.org/wiki/Dandy_horse)
 
 [Gunpowder](https://en.wikipedia.org/wiki/Timeline_of_the_gunpowder_age)
 
-# Other
+# Other Topics
 
 [Sortition](https://en.wikipedia.org/wiki/Sortition)
 
 [Royal Society](https://en.wikipedia.org/wiki/Royal_Society)
 
 ---
+
+[Further Reading for Book I](/further-reading)
+
+[Further Reading for Book III](/further-reading-book-iii)
 
 # [« Home](/)
